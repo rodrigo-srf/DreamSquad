@@ -1,3 +1,6 @@
 fastapi
 uvicorn
-requests
+strands-agents
+python-dotenv
+httpx
+pydantic
